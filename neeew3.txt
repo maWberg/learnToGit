@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 editing master file to test merge mechanics
-=======
-i edited this file to test branches in git
->>>>>>> experimental
+
